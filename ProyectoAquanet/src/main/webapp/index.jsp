@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>Prueba 1</h1>
+	<h1>Prueba 2</h1>
 </body>
 </html>
 
